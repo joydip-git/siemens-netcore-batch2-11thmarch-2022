@@ -149,7 +149,29 @@ control flow statements:
 	goto (do not use)
 
 
+pass by value:
+	when a copy of value of a variable is passed to another function
+pass by reference:
+	when reference of storage of the value of a variable is passed to another function
 
+Nullable Type:
+
+a. nullable value type
+Nullable<T>
+//Nullable<int> val = null;
+int? val = null;
+val = 12;
+
+if(val.HasValue)
+
+b. string? val = null;
+	val = "joydip";
+	if(val !=null)
+		
+
+null coalesce operator
+
+ref-type-var??"";
 
 
 
