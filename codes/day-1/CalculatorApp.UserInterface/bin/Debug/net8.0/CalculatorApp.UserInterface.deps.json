@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculatorApp.UserInterface/1.0.0": {
+        "dependencies": {
+          "CalculatorApp.CalculationLogic": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorApp.UserInterface.dll": {}
+        }
+      },
+      "CalculatorApp.CalculationLogic/1.0.0": {
+        "runtime": {
+          "CalculatorApp.CalculationLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorApp.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculatorApp.CalculationLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
