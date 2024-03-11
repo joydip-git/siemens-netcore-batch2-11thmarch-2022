@@ -1,0 +1,15 @@
+Create an application to calculate
+	- adding two numbers
+	- subtraction of two numbers
+	- divide two numbers
+	- multiply two numbers
+
+a. print a choice to users for those operations
+b. accept a choice from user
+c. accept inputs (two numbers) from user
+d. based on choice invoke the corresponding operation by passing the inputs
+e. print the result
+
+Note: create 4 methods in you application apart from Main method
+	all the methods should accpt two arguments of type "int"
+	all the methods must return the output of calculation

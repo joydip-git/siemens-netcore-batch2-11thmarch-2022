@@ -14,15 +14,15 @@ Framework => provides support for development (creation, compilation, testing, d
 Languages: C#.NET, VB.NET, F#.NET, J#.NET (34 languages)
 IDE (Integrated Development Environment) - Visual Studio
 
-Year			Framework Version		C#					VS
-----------------------------------------------------
-2002					1.0						1.0				2002
-2003					1.1						1.2				2003
-2005					2.0						2.0				2005
-2007					3.0						3.0				-----
-2008					3.5						3.5				2008
-2010					4.0						4.0				2010
-2012/13					4.5.1/4.5.2			5.0				2012/13
+Year			Framework Version				C#					VS						CLR
+--------------------------------------------------------------------------------
+2002					1.0						1.0				2002					1.0
+2003					1.1						1.2				2003					1.1
+2005					2.0						2.0				2005					2.0
+2007					3.0						3.0				-----					2.0
+2008					3.5						3.5				2008					2.0
+2010					4.0						4.0				2010					4.0
+2012/13				4.5.1/4.5.2				5.0				2012/13				4.0
 2015					4.6						6.0				2015
 2017					4.7						7.0				2017
 2019					4.8						8.0				2019
@@ -108,7 +108,55 @@ dotnet tool commands (popular)
 >dotnet add reference ( to add reference to a package from your app)
 ...................
 
+in dotnet core framework, an executable application (which consists a Main method), when compiled, produces always a .dll file and that's your assembly. alongside an executable file is also created, which is NOT an assembly. the executable is known as "Host". This host actually runs and it hosts the .dll file (application assembly) and executes it starting from Main method. .dll file contains the IL code, NOT the .exe file.
+when a class library type of application, created using ,net core and is compiled, it produces a library (.dll file). no executable Host is created.
+
+In contrast, legacy .NET Framework, the executable, when compiled, will always produce an executable output file (with an extenson of .exe). No library file is created in that case. .EXE file contains the IL code and that file is executed.
+when a class library type of application, created using ,legacy .net framework and is compiled, it produces a library (.dll file). 
+
 IL Code: Machine Independent (Neutral) - portable
+
+C# => 
+	Object oriented programming language
+	stronly typed language
+	type safe language
+	.....
+
+Value type: the variable stores the value itself
+Reference Type: the variable stores the reference of an object of the same type or its child type
+
+Assembly:
+	an output file (.exe/.dll)
+	contains:	
+		1. IL code
+		2. Manifest (assembly information, such as author, version, copyright, etc.)
+		3. Type Infomation (metadata about all the types of your application)
+		4. CLR Header (Header value indicating which CLR version your application is targetted for)
+		5. Win32 Header (indicating the Windows O/S libraries required to run your application)
+
+ILDASM => Intermediate Language Dis-Assmebler (tool to view the assembly - output file)
+
+
+control flow statements:
+	if..else
+	switch...case
+	for, foreach
+	while
+	do...while
+	continue
+	break
+	default
+	goto (do not use)
+
+
+
+
+
+
+
+
+
+
 
 
 

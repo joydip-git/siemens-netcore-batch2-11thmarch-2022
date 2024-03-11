@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\bin\Debug\net8.0\App.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\bin\Debug\net8.0\App.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\bin\Debug\net8.0\App.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\bin\Debug\net8.0\App.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\bin\Debug\net8.0\App.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\refint\App.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\App.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\App\obj\Debug\net8.0\ref\App.dll
