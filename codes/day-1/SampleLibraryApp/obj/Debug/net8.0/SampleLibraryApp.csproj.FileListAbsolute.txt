@@ -1,0 +1,12 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\bin\Debug\net8.0\SampleLibraryApp.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\bin\Debug\net8.0\SampleLibraryApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\bin\Debug\net8.0\SampleLibraryApp.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\refint\SampleLibraryApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\SampleLibraryApp.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-1\SampleLibraryApp\obj\Debug\net8.0\ref\SampleLibraryApp.dll
