@@ -1,0 +1,49 @@
+OOP in C#
+1. class and objects
+2. constructor
+3. data members and methods and properties
+4. access specifiers and modifiers
+5. keywords
+6. static members
+
+namespace => logical way to organize types in your application. all the built-in types in .NET core library are organized using namespaces.
+	- a way to organize the types (classes, interfaces etc.) of similar nature under one umbrella/group
+	- also a way to segregate/separate dissimilar types under different groups
+
+namespace DataAccess
+{
+	public class SqlDataAccess{}
+	public class OracleDataAccess{}
+}
+namespace Drawing
+{
+	public class Rectangle{}
+	public class Circle{}
+}
+
+using DataAccess;
+
+namespace <name-of-the-app>
+{
+	class Program{
+		static void Main(){
+	
+		}
+	}
+}
+
+access specifiers for class:
+	internal and public
+	internal: the class is "internal" or "accessible" within the same application (assembly), where it has been declared. you can't access the internal class from another application (assembly). within the same assembly the class behaves like a public, i.e., the class is accessible from any other class in the same assembly. But it behaves like private w.r.t. another application/assembly.
+	public: the class is "public" or "accessible" within the same application (assembly), where it has been declared as well as accessible from another application (assembly).
+	default: internal
+
+access specifiers for class members (both data and methods, including constructor):
+	private, public, protected, internal and internal protected or protected internal
+	private: the member of the class is accessible within the declaring class itself
+	public: the member of the class is accessible within the declaring class and from outside the declaring class (i.e., available within the child class and also can be accessed through instance variable, both in the same assembly as well as from another assembly)
+	internal: this data member behaves like a public data member within the same assembly or application (i.e., available within the child class and also can be accessed through instance variable). But the same member behaves like a private data member w.r.t. another application/assembly. (i.e., unavailable within the child class and also can't be accessed through instance variable)
+	default: private
+
+
+

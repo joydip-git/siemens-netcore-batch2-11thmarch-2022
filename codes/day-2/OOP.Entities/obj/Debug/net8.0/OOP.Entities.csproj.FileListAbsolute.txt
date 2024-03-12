@@ -1,0 +1,12 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\bin\Debug\net8.0\OOP.Entities.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\bin\Debug\net8.0\OOP.Entities.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\bin\Debug\net8.0\OOP.Entities.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\refint\OOP.Entities.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\OOP.Entities.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OOP.Entities\obj\Debug\net8.0\ref\OOP.Entities.dll
