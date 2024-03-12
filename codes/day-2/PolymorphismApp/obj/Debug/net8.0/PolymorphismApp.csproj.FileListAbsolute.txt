@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\bin\Debug\net8.0\PolymorphismApp.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\refint\PolymorphismApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\PolymorphismApp.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\PolymorphismApp\obj\Debug\net8.0\ref\PolymorphismApp.dll

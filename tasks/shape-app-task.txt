@@ -1,0 +1,17 @@
+create an application to calculate area of different shapes
+Circle
+	data - radius
+	method - CalculateArea
+			args: NA
+			return type: double
+
+triangle
+	data - tbase, theight
+	method - CalculateArea
+			args: NA
+			return type: double
+
+
+create objects of both circle and triangle  (at least one each)
+store them in a collection
+iterate through them again and print the calculated area of every shape

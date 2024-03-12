@@ -1,0 +1,18 @@
+create an application to find out whether a person is outstanding or not.
+
+Author
+	data - name and books published
+	method - IsOutstanding
+			 args: NA
+			 return type: bool
+an author is outstanding if he/she has published more than 5 books
+Trainee
+	data - name and marks
+	method - IsOutstanding
+			 args: NA
+			 return type: bool
+a student is outstanding if he/she has published more than 5 books
+
+create objects of both author and trainee  (at least two each)
+store them in a collection
+iterate through them again and print the name of ONLY outstanding people

@@ -104,5 +104,39 @@ Note: if base class is less accessible (internal), child class can't be more acc
 
 constructor execution sequence: base class default constructor gets called by default, whenever any child class constructor is invoked
 You can explicitly invoke any constructor (generally parameterized, but also the default) of base class, from child class constructors using "base" keyword
+
+Polymorphism:
+	many forms of methods or operators
+	types:
+		static or compile-time: method and operator overloading
+		dynamic or run-time: method overriding 
+
+A. method overloading: method with same name in a class but...
+	number of arguments/parameters are different
+	data type of parameters/arguments are different
+	order of parameters/arguments are different
+
+when you try to call that method and pass arguments, by looking at the signature itself it can be decided which version of overloaded methods will be called. You DON'T need to run the application even. that's why it is a compile time polymorphism.
+
+note: 
+	return type is not a deciding factor for method overloading.
+	all overloaded methods are part of the same class. No inheritance involved here.
+
+B. operator overloading:
+	overloaded functions for operators will be part of the same class, on whose instances you want to apply the operator
+public static bool operator <operator>(arg1, arg2)
+
+Dynamic poymorphism:
+	method of which child class will be called is decided during runtime
+	compile time does not decide (compile time decision is overriden during runtime)
+Note: 
+	here inheritance is involved (at least a base and a child class are present) 
+	the idea is to provide new implementation to the same method of base class in the child classes. so, since the base and child will have ditto same same method (signature-wise), hence there is no difference in the arguments of the function. The difference is in the implementation of the methods in base and child class.
+	the base class method must be declared with "virtual" and the child class same method should be declared with "override" keyword. override can't be used with child class method, if the base class's same method is NOT declared with virtual or override keyword.
+	we are also always overriding "immediate" base class'virtual or already overriden method
 	
+
+
+
+
 

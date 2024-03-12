@@ -1,0 +1,19 @@
+create an appalication to calculate salary of different types of employee
+
+developer:
+
+	data - name, id, basic pay, da pay, hra pay, incentive pay
+	method - CalculateSalary	
+				args: NA
+				return type: decimal/double/float
+
+hr:
+	data - name, id, basic pay, da pay, hra pay, gratuity pay
+	method - CalculateSalary
+				args: NA
+				return type: decimal/double/float
+
+In Main method..
+	a. create objects of both developer and hr  (at least one each) based on user choices
+	b. store them in an array (a single array to store references of both developer and hr instances)
+	c. iterate through the array again and calculate salary of all employees and print the same
