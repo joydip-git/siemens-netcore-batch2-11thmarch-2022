@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

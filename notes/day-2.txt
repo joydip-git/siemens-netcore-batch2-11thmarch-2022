@@ -94,3 +94,15 @@ access specifiers for class members (both data and methods, including constructo
 
 
 
+Inheritance:
+	what?
+	acquiring the characterestics and functionalities from one class to another
+	why?
+	avoid redundant code and use reusability
+	how?
+Note: if base class is less accessible (internal), child class can't be more accessible (can't be public). But if base class is more accessible (public), child class can be less accessible (can be internal)
+
+constructor execution sequence: base class default constructor gets called by default, whenever any child class constructor is invoked
+You can explicitly invoke any constructor (generally parameterized, but also the default) of base class, from child class constructors using "base" keyword
+	
+

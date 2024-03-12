@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB85A7BD-55B2-48B8-8FDC-31AE5D81D424}|Inheritance.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\inheritance\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB85A7BD-55B2-48B8-8FDC-31AE5D81D424}|Inheritance.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB85A7BD-55B2-48B8-8FDC-31AE5D81D424}|Inheritance.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB85A7BD-55B2-48B8-8FDC-31AE5D81D424}|Inheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\Inheritance\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\Inheritance\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:23:27.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-2\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:23:04.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
