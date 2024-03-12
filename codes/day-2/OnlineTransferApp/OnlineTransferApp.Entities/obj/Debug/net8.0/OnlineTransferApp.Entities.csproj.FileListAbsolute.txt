@@ -1,0 +1,12 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\bin\Debug\net8.0\OnlineTransferApp.Entities.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\bin\Debug\net8.0\OnlineTransferApp.Entities.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\bin\Debug\net8.0\OnlineTransferApp.Entities.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\refint\OnlineTransferApp.Entities.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\OnlineTransferApp.Entities.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-2\OnlineTransferApp\OnlineTransferApp.Entities\obj\Debug\net8.0\ref\OnlineTransferApp.Entities.dll
