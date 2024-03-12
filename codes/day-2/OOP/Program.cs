@@ -1,6 +1,7 @@
 ﻿using OOP.Entities;
 
-namespace OOP { 
+namespace OOP
+{
     class Program
     {
         static void Main()
@@ -8,7 +9,7 @@ namespace OOP {
             Console.WriteLine("Welcome to OOP");
             //variable declaration (no object is being created at this point)
             //the "person" variable stores no reference as of now
-            Person? person = null;
+            Person? anilPerson = null;
 
             //creating instance of the Person class by calling the constructor (Default)
             //and storing the reference of that instance in the "person" variable
@@ -27,10 +28,26 @@ namespace OOP {
             //person = new Person("anil", "Chennai"); <-- is incorrect
 
             //named arguments (passing the value for an argument of a method, by using the name of the argument followed by the value) (C# 4.0)
-            person = new Person(location: "Chennai", name: "anil");
+            //anilPerson = new Person(location: "Chennai", name: "anil", companyName: "Siemens");
+            anilPerson = new Person(1, location: "", name: "anil");
             //person.name = "sunil"; <-- incorrect approach (internal, like a private)
-            person.age = 20;//public
-            Console.WriteLine(person.GetInfo());
+            anilPerson.Name = "anil kumar";
+            Console.WriteLine(anilPerson.Name);
+            //anilPerson.SetLocation("Chennai");
+            //anilPerson.age = 20;//public=>private
+
+            //static members are accessed via class name, NOT through instance variable, as they are not part of any instance
+            //Person.SetCompanyname("");
+
+            Console.WriteLine(anilPerson.GetInfo());
+
+            //Person sunilPerson = new Person(name: "sunil", age: 34, companyName: "Siemens");
+            Person sunilPerson = new Person(2, name: "sunil", age: 34);
+            //sunilPerson.SetLocation("Mumbai");
+            //sunilPerson.SetAge(43);
+            sunilPerson.Location = "Mumbai";
+            sunilPerson.Age = 56;
+            Console.WriteLine(sunilPerson.GetInfo());
         }
     }
 }

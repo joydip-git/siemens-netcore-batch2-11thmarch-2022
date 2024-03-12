@@ -1,10 +1,11 @@
 OOP in C#
 1. class and objects
 2. constructor
-3. data members and methods and properties
+3. data members and methods
 4. access specifiers and modifiers
-5. keywords
-6. static members
+5. keywords - static, readonly (used with data members) etc.
+6. static members  - data member, constructor, method
+7. properties
 
 namespace => logical way to organize types in your application. all the built-in types in .NET core library are organized using namespaces.
 	- a way to organize the types (classes, interfaces etc.) of similar nature under one umbrella/group
@@ -44,6 +45,52 @@ access specifiers for class members (both data and methods, including constructo
 	public: the member of the class is accessible within the declaring class and from outside the declaring class (i.e., available within the child class and also can be accessed through instance variable, both in the same assembly as well as from another assembly)
 	internal: this data member behaves like a public data member within the same assembly or application (i.e., available within the child class and also can be accessed through instance variable). But the same member behaves like a private data member w.r.t. another application/assembly. (i.e., unavailable within the child class and also can't be accessed through instance variable)
 	default: private
+
+
+ //public int GetId()
+ //{
+ //    return id;
+ //}
+ //name
+ //getter
+ //public string? GetName()
+ //{
+ //    return name;
+ //}       
+ //setter
+ //public void SetName(string? name)
+ //{
+ //    this.name = name;
+ //}       
+ //location
+ //setter
+ //public void SetLocation(string? location)
+ //{
+ //    this.location = location;
+ //}       
+ //getter
+ //public string? GetLocation()
+ //{
+ //    return location;
+ //}        
+ //age
+ //setter
+ //public void SetAge(int age)
+ //{
+ //    this.age = age;
+ //}       
+ //getter
+ //public int GetAge()
+ //{
+ //    return age;
+ //}
+
+ public string GetInfo()
+ {
+     //return "Name: " + name + ", Age: " + age + ", Location: " + location;
+     //string interpolation
+     return $"Id: {id}, Name: {name}, Age: {age}, Location:{location}, Company Name:{companyName}";
+ }   
 
 
 
