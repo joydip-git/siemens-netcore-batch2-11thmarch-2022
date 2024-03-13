@@ -1,0 +1,18 @@
+create an application for transferring money from one accoun to another
+
+create a class with following characters and functionalities to represent an account:
+	data: account id, account holder name, current balance, minimum balance and withdrawal limit
+	functionalities:
+	a. method to allow user to debit some amount from account
+	b. method to allow user to credit some amount to account
+
+Note: check whether amount to debit is more than
+			a. withdrawal limit or not (ExceededWithdrawalLimitException)
+			b. minimum balance or not (ExceededMinimumBalanceException)
+			c. current balance or not (ExceededCurrentBalanceException)
+	you can need to throw custom exception in those cases
+
+a. create minimum two instances of the class respresenting two account holders and
+b. transfer amount from one to another account
+
+male sure the if any of the operation fails (i.e. either of credit or debit) the entire transfer fails

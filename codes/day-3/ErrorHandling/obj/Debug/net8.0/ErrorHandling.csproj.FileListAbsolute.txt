@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\bin\Debug\net8.0\ErrorHandling.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\bin\Debug\net8.0\ErrorHandling.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\bin\Debug\net8.0\ErrorHandling.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\bin\Debug\net8.0\ErrorHandling.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\bin\Debug\net8.0\ErrorHandling.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\refint\ErrorHandling.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ErrorHandling.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\ErrorHandling\obj\Debug\net8.0\ref\ErrorHandling.dll

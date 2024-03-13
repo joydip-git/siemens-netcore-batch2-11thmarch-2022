@@ -1,9 +1,5 @@
-abstract class
-interface
-dependency injection
-exception handling
 generic
-collections and generics
+collections and generic collection classes
 
 delegates, lambdas, new features in C#
 LINQ, EF Core, reflection, thredaing, file handling

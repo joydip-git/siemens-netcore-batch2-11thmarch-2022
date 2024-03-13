@@ -1,7 +1,7 @@
 abstract class
 interface
-
 dependency injection
+
 exception handling
 generic
 collections and generics
@@ -142,6 +142,31 @@ Loosely-coupled:
 If the "dependent" instance DOES NOT create an instance of the "dependency factor" directly, rather asks "someone" (who is using dependent instance) to pass reference of the instance of the dependency factor instead, via its base interface/abstract class => dependent and dependency factor are loosely coupled
 
 DI: supplying the instance of dependency factor in an instance of dependent class. its achieved via abstract base class/interface. Use this DI to achieve loose coupling.
+
+
+Errors:
+	a. compile time
+	b. run-time error
+		runtime pause further execution of the code
+		runtime itself creates an instance of corresponding exception class (InvalidCastException, IndexOutOfRangeException, FormatException, NullReferenceException etc.) by passing all necessary information to the instance
+		runtime passes (throws) the reference of that class to the application
+		are you handling that?
+
+	c. logical error
+
+		Exception:
+			SystemException:
+				ArithmeticException	
+					DivideByZeroException
+				ArgumentException
+					ArgumentNullException
+					ArgumentOutOfRangeException
+
+			ApplicationException:
+				If you want to create custom exception class for your application, use this as base class
+
+
+
 
 
 
