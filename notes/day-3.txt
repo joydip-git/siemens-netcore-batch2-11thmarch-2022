@@ -1,6 +1,85 @@
 abstract class
 interface
+
 dependency injection
 exception handling
 generic
 collections and generics
+
+the child class can override a method of immediate base class if....
+	a. immediate base class method is declared with "virtual" keyword
+	b. immediate base class method is declared with "abstract" keyword
+	c. immediate base class method is declared with "override" keyword (that means the immediate base class has another base class where that method is either virtual or abstarct)
+	
+
+abstract class is a class having at least one abstract method/property
+1. object of an abstract class can't be created
+2. abstract class is meant for inheritance, so that its abstract members can be implemented in the child classes
+3. if any child class doesn't implement all the abstract members of the immediate base class, then that child class becomes abstract too, and that child class must be declared explicitly with "abstract" keyowrd
+4. abstract class can have data members, constructors, other non-abstract methods, non-abstract properties like any concrete class
+
+Example: abstract method, property and class
+
+abstract class Some{
+	private int _guid;
+
+	public Some(){}
+	public Some(int guid) { _guid = guid; }
+
+	public int Guid { set=> _guid=value; get => _guid; }
+
+	public int Print(){
+		return _guid;
+	}
+
+	public abstract void Foo();
+	public abstract string Name { set; get; }
+}
+
+//following is incorrect code
+Some some = new Some(123456);
+some.Foo();
+
+class Implementation:Some{
+
+	private string? _name;
+	public Implementation(){}
+	public Implementation(int guid, string? name)
+	:base(guid)
+	{
+		_name = name;
+	}
+
+	//implementation of abstract methdo and property
+	public override void Foo(){ //code }
+	public override string Name
+	{
+		set=> _name = value;
+		get => _name;
+	}
+}
+
+abstract class PartialImplementation:Some{
+	
+	private string? _name;
+
+	public Implementation(){}
+	public Implementation(int guid, string? name)
+	:base(guid)
+	{
+		_name = name;
+	}
+
+	// abstractmethod is not implemented here	
+	// public override void Foo(){ //code }
+
+	// implementation of abstract property
+	public override string Name
+	{
+		set=> _name = value;
+		get => _name;
+	}
+}
+
+
+

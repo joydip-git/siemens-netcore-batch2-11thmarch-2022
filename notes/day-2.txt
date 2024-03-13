@@ -103,7 +103,7 @@ Inheritance:
 Note: if base class is less accessible (internal), child class can't be more accessible (can't be public). But if base class is more accessible (public), child class can be less accessible (can be internal)
 
 constructor execution sequence: base class default constructor gets called by default, whenever any child class constructor is invoked
-You can explicitly invoke any constructor (generally parameterized, but also the default) of base class, from child class constructors using "base" keyword
+You can explicitly invoke any constructor (generally parameterized, but also the default) of the immediate base class, from child class constructors using "base" keyword
 
 Polymorphism:
 	many forms of methods or operators
@@ -124,11 +124,17 @@ note:
 
 B. operator overloading:
 	overloaded functions for operators will be part of the same class, on whose instances you want to apply the operator
-public static bool operator <operator>(arg1, arg2)
+examples:
+public static bool operator ==(arg1, arg2)
+public static bool operator !=(arg1, arg2)
+public static string operator +(arg1, arg2)
+
 
 Dynamic poymorphism:
+	you put a common functionality in a base class, thinking the same functionality should be part of every child class. But, then, you want different implementations of the same method in every child class depending on the child class's requirement.
+
 	method of which child class will be called is decided during runtime
-	compile time does not decide (compile time decision is overriden during runtime)
+	compile time can't decide (compile time decision is overriden during runtime)
 Note: 
 	here inheritance is involved (at least a base and a child class are present) 
 	the idea is to provide new implementation to the same method of base class in the child classes. so, since the base and child will have ditto same same method (signature-wise), hence there is no difference in the arguments of the function. The difference is in the implementation of the methods in base and child class.
