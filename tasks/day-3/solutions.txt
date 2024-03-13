@@ -1,0 +1,58 @@
+employee:
+	data - 		name, id, basic pay, da pay, hra pay
+	method - 	virtual CalculateSalary	=> basic pay+ da pay+ hra pay
+				args: NA
+				return type: decimal/double/float
+
+developer:
+
+	data -  	incentive pay
+	method - 	override CalculateSalary	=> base.CalculateSalary() + incentivepay
+				args: NA
+				return type: decimal/double/float
+
+hr:
+	data - 		gratuity pay
+	method - 	override CalculateSalary	=> base.CalculateSalary() + gratuitypay
+				args: NA
+				return type: decimal/double/float
+
+2nd app:
+
+abstract Person:
+	data - 		name
+	method - 	abstract IsOutstanding
+			 	args: NA
+			 	return type: bool
+
+Author:
+	data - 		bookspublished
+	method - 	override IsOutstanding=> bookspublished>5
+			 	args: NA
+			 	return type: bool
+an author is outstanding if he/she has published more than 5 books
+
+Trainee:
+	data - 		marks
+	method - 	override IsOutstanding=>marks>85
+			 	args: NA
+			 	return type: bool
+a student is outstanding if he/she has scored more than 85
+
+
+3rd app:
+interface IShape
+	method - 	CalculateArea
+				args: NA
+				return type: double
+Circle
+	data - 		radius
+	method - 	CalculateArea => 3.14*radius*radius
+				args: NA
+				return type: double
+
+triangle
+	data - 		tbase, theight
+	method - 	CalculateArea => 0.5*tbase*theight
+				args: NA
+				return type: double

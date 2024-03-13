@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\OOPAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1D7B41-6F7D-4C06-9C29-D8A2455E4FAD}|UserInterface\\UserInterface.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\oopassignments\\userinterface\\shapes\\shapeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1D7B41-6F7D-4C06-9C29-D8A2455E4FAD}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\shapes\\shapeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1D7B41-6F7D-4C06-9C29-D8A2455E4FAD}|UserInterface\\UserInterface.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\oopassignments\\userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1D7B41-6F7D-4C06-9C29-D8A2455E4FAD}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeUI.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\OOPAssignments\\UserInterface\\Shapes\\ShapeUI.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Shapes\\ShapeUI.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\OOPAssignments\\UserInterface\\Shapes\\ShapeUI.cs",
+              "RelativeToolTip": "UserInterface\\Shapes\\ShapeUI.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA3wAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:08:07.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\OOPAssignments\\UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\OOPAssignments\\UserInterface\\Program.cs",
+              "RelativeToolTip": "UserInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:01:20.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
