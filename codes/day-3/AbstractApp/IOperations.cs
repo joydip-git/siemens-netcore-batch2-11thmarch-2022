@@ -25,5 +25,9 @@
         {
             get => _result;
         }
+        public void Subtract(int x, int y)
+        {
+            Console.WriteLine(x-y);
+        }
     }
 }

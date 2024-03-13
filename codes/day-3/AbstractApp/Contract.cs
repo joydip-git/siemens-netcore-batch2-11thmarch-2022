@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AbstractApp
+﻿namespace AbstractApp
 {
     abstract class Contract
     {
@@ -43,6 +37,34 @@ namespace AbstractApp
         {
             set => _name = value;
             get => _name;
+        }
+    }
+    class Implementation : Contract
+    {
+
+        private string? _name;
+        public Implementation() { }
+        public Implementation(int guid, string? name)
+        : base(guid)
+        {
+            _name = name;
+        }
+
+        //implementation of abstract methdo and property
+        public override void Foo()
+        {
+            //code
+        }
+
+        public override string? Name
+        {
+            set => _name = value;
+            get => _name;
+        }
+
+        public void Show()
+        {
+            Console.WriteLine(_name);
         }
     }
 }

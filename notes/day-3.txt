@@ -117,8 +117,31 @@ interface IOperations{
 	int Result {set; get;}
 }
 
+similarities and dis-similiarities between abstract class and interface?
+1. abstract class can have abstract methods and properties just like interface
+	absract class can have non-abstract members too, which interface can't have
+2. abstract class can't be instantiated just like interface, though you can declare variable of both of them to store the reference of any child class
+3. abstract class can have explicit static and non-static constructors, data members, methods, properties etc., which interface can't have
+
+etc. etc.
+
+in which situation should you use 
+	a. concrete base class with virtual method/property and child class with override method/property
+	b. abstract base class with abstract method/property and child class with override method/property
+	c. interface with abstract method/property and child class with implemented method/property
 
 
+Tightly-coupled code:
+an instance of one class (BankingService) depends on an instance of another class (BankingOperations). 
+	1st party (BankingService): dependent
+	2nd party (BankingOperations): dependency factor
+
+If the "dependent" instance creates an instance of the "dependency factor" directly => dependent and dependency factor are tightly coupled
+
+Loosely-coupled:
+If the "dependent" instance DOES NOT create an instance of the "dependency factor" directly, rather asks "someone" (who is using dependent instance) to pass reference of the instance of the dependency factor instead, via its base interface/abstract class => dependent and dependency factor are loosely coupled
+
+DI: supplying the instance of dependency factor in an instance of dependent class. its achieved via abstract base class/interface. Use this DI to achieve loose coupling.
 
 
 
