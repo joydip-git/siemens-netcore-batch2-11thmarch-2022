@@ -63,8 +63,8 @@ abstract class PartialImplementation:Some{
 	
 	private string? _name;
 
-	public Implementation(){}
-	public Implementation(int guid, string? name)
+	public PartialImplementation(){}
+	public PartialImplementation(int guid, string? name)
 	:base(guid)
 	{
 		_name = name;
@@ -80,6 +80,45 @@ abstract class PartialImplementation:Some{
 		get => _name;
 	}
 }
+
+class Project{
+	string _title;
+	DateTime _start;
+	DateTime _end;
+	
+	public abstract void FollowSDLC();
+}
+
+class UltraSoundProject:Project{
+	public ovveride void FollowSDLC(){
+		//Agile
+	}
+}
+
+class DynamicsProject:Project{
+	public ovveride void FollowSDLC(){
+		//DevOps
+	}
+}
+
+
+interface:
+	pure abstract class, i.e., only can contain abstract method(s) and/or propety (ies)
+	no data member, explicit constructor can be written
+	by default the members in interface are public and abstract, hence no need to use any access specifier (public) or modifier ("abstract")
+	while implementing the interface members in any child class, no need to use "override" keyword explicitly, since in the interface, that same member is not declared with exlpicit "abstract" keyword
+	declared with "interface" keyword
+	naming convention: should start with "I" followed by the name of the interface
+	if a class implements an interface, but does not implement all the members of the interface, then the class becomes abstract. In this case, the interface member must be explicitly written in the class using "public" and "abstract" keywords. the class must be declared with "abstract" keyword too.
+	like abstract class, you can't instantiate an interface
+
+interface IOperations{
+	void Add(int x, int y);
+	int Result {set; get;}
+}
+
+
+
 
 
 
