@@ -1,4 +1,6 @@
 create an application to calculate area of different shapes
+
+library application:
 Circle
 	data - radius
 	method - CalculateArea
@@ -12,6 +14,8 @@ triangle
 			return type: double
 
 
+console application:
+In Main method:
 create objects of both circle and triangle  (at least one each)
-store them in a collection
-iterate through them again and print the calculated area of every shape
+store them in an array
+iterate through the array again and print the calculated area of every shape
