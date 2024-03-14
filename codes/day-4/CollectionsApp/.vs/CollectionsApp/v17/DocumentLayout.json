@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\CollectionsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7218C4B-A346-4BC2-A59E-D01D121F09E2}|CollectionsApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\collectionsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7218C4B-A346-4BC2-A59E-D01D121F09E2}|CollectionsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A98983-25DF-47AF-8F83-C5CE63425FE2}|..\\GenericCollections\\GenericCollections.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\genericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\CollectionsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\CollectionsApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:41:46.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\GenericCollections\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericCollections\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\GenericCollections\\Program.cs",
+              "RelativeToolTip": "..\\GenericCollections\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:37:30.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

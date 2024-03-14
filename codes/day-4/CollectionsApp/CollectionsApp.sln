@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsApp", "CollectionsApp.csproj", "{B7218C4B-A346-4BC2-A59E-D01D121F09E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollections", "..\GenericCollections\GenericCollections.csproj", "{F7A98983-25DF-47AF-8F83-C5CE63425FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7218C4B-A346-4BC2-A59E-D01D121F09E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7218C4B-A346-4BC2-A59E-D01D121F09E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7218C4B-A346-4BC2-A59E-D01D121F09E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7218C4B-A346-4BC2-A59E-D01D121F09E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26EB2D95-BEC0-4B52-90E2-CE74833740A6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,51 @@
+generic
+collections and generic collection classes
+
+generic constraints for method, class, interface:
+	where type-param-name: constraint-type1, constriant-type2,...
+
+default(T) => returns the defalut value of a type parameter
+
+classes => null
+Nullable<T> => null
+Numeric => 0
+DateTime => 1/1/0001
+char => empty char
+bool => false
+
+static void Print<T>(T a){
+	cw(default(T));
+}
+
+Print<int?>(10);
+
+namepace: System
+IComparable and IComparable<T>
+
+Collections namespace: System.Collections
+
+collection interfaces
+---------------------------------------------------------------
+IEnumerable, ICollection, IList, IComparer, IEnumerator
+
+Collection classes:
+------------------------------------
+ArrayList, Stack, Queue, HashTable, SortedList, DictionaryEntry
+
+Generic Collections namespace: System.Collections.Generic
+
+
+generic collection interfaces
+---------------------------------------------------------------
+IEnumerable<T>, ICollection<T>, IList<T>, IComparer<T>, IEnumerator<T>
+
+generic collection classes:
+------------------------------------
+List<T>, Stack<T>, Queue<T>, Dictionary<TKey,TValue>, SortedList<TKey,TValue>, KeyValuePair<TKey,TValue>
+
+
+
+
+
+
+
