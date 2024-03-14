@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\CollectionsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6407FB70-D7B2-44AE-869E-01F0F747264B}|..\\SetApp\\SetApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\setapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFABF0E4-E237-40D0-909B-7C4908D65580}|..\\ComparisonDemo\\ComparisonDemo.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\comparisondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\SetApp\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SetApp\\Program.cs",
-              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\SetApp\\Program.cs",
-              "RelativeToolTip": "..\\SetApp\\Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFQAAAAAAAAA",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ComparisonDemo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ComparisonDemo\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ComparisonDemo\\Program.cs",
+              "RelativeToolTip": "..\\ComparisonDemo\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T06:21:40.042Z",
+              "WhenOpened": "2024-03-14T09:10:52.397Z",
               "EditorCaption": ""
             }
           ]

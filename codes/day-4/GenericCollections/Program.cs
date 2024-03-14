@@ -4,6 +4,23 @@
     {
         static void Main(string[] args)
         {
+
+            MyList<int> ints = new MyList<int>();
+            ints.Add(1);//1
+            ints.Add(2);//2
+            ints.Add(1);//3
+            ints.Add(3);//4
+
+            //foreach (int item in ints)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            IEnumerator<int> enumerator = ints.GetEnumerator();
+            while (enumerator.MoveNext())
+            {
+                Console.WriteLine(enumerator.Current);
+            }
+
             List<int> list = new List<int>();
             list.Add(1);//1
             list.Add(2);//2
@@ -23,6 +40,11 @@
             {
                 Console.WriteLine(item);
             }
+            //IEnumerator<int> enumerator = list.GetEnumerator();
+            //while (enumerator.MoveNext())
+            //{
+            //    Console.WriteLine(enumerator.Current);
+            //}
 
             Stack<int> stack = new Stack<int>();
             stack.Push(12);

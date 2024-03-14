@@ -1,0 +1,14 @@
+given any sentence, find out how many times each word appaered in the sentence and displat the words and their frequencies, sorted by the word.
+
+Example:
+sentence: DotNet is a framework from Microsoft. DotNet was released in 2002 and new flavor of it is known as NET.
+
+
+a : 1
+and: 1
+DotNet: 2
+flavor: 1
+framework: 1
+in: 1
+is: 2
+it: 1

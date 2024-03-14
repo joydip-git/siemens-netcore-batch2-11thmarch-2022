@@ -26,7 +26,7 @@ Collections namespace: System.Collections
 
 collection interfaces
 ---------------------------------------------------------------
-IEnumerable, ICollection, IList, IComparer, IEnumerator
+IEnumerable and IEnumerator, ICollection, IList, IComparer 
 
 Collection classes:
 ------------------------------------
@@ -37,7 +37,7 @@ Generic Collections namespace: System.Collections.Generic
 
 generic collection interfaces
 ---------------------------------------------------------------
-IEnumerable<T>, ICollection<T>, IList<T>, IComparer<T>, IEnumerator<T>
+IEnumerable<T> and IEnumerator<T>, ICollection<T>, IList<T>, IComparer<T> 
 
 generic collection classes:
 ------------------------------------
@@ -51,6 +51,17 @@ Object
 
 nth hash code = currentdata and (n-1) th hashcode
 
+IEnumerable<T> => IEnumerator<T> GetEnumerator()
+IEnumerable 	 => IEnumerator GetEnumerator()
+
+system
+IComparable<T> => int CompareTo(T? other)
+IComparable => int CompareTo(obj? other)
+
+system.collections.generic
+IComparer<T> => int Compare(T? x, T? y)
+system.collections
+IComparer => int Compare(obj? x, obj? y)
 
 
 
