@@ -1,7 +1,4 @@
-generic
-collections and generic collection classes
-
-delegates, lambdas, new features in C#
-LINQ, EF Core, reflection, thredaing, file handling
+delegates, lambdas
+LINQ, reflection, thredaing, file handling
 
 Web API and EF Core + Gen AI

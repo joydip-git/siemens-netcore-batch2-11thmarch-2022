@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\extensionmethodapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\extensionmethodapp\\calculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|solutionrelative:calculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\extensionmethodapp\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|solutionrelative:icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\extensionmethodapp\\calculationupgraded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|solutionrelative:calculationupgraded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\extensionmethodapp\\calculationinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBFB521-E23F-4E3D-AF96-71F5CD1BD813}|ExtensionMethodApp.csproj|solutionrelative:calculationinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationUpgraded.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\CalculationUpgraded.cs",
+              "RelativeDocumentMoniker": "CalculationUpgraded.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\CalculationUpgraded.cs",
+              "RelativeToolTip": "CalculationUpgraded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:56:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationExtension.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\CalculationExtension.cs",
+              "RelativeDocumentMoniker": "CalculationExtension.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\CalculationExtension.cs",
+              "RelativeToolTip": "CalculationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:54:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculationInitial.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\CalculationInitial.cs",
+              "RelativeDocumentMoniker": "CalculationInitial.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\CalculationInitial.cs",
+              "RelativeToolTip": "CalculationInitial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:53:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculation.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\ICalculation.cs",
+              "RelativeDocumentMoniker": "ICalculation.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\ICalculation.cs",
+              "RelativeToolTip": "ICalculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:53:27.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-4\\ExtensionMethodApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:53:04.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

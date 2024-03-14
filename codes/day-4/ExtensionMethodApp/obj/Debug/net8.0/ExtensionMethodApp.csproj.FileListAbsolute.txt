@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\bin\Debug\net8.0\ExtensionMethodApp.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\bin\Debug\net8.0\ExtensionMethodApp.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\bin\Debug\net8.0\ExtensionMethodApp.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\bin\Debug\net8.0\ExtensionMethodApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\bin\Debug\net8.0\ExtensionMethodApp.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\refint\ExtensionMethodApp.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ExtensionMethodApp.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\ExtensionMethodApp\obj\Debug\net8.0\ref\ExtensionMethodApp.dll

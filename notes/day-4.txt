@@ -63,6 +63,23 @@ IComparer<T> => int Compare(T? x, T? y)
 system.collections
 IComparer => int Compare(obj? x, obj? y)
 
+new features in C#:
+1. Implicitly typed local variable and implcitly typed array variable
+2. static import
+3. Named argument
+4. Optional argument with default value
+5. auto-implemented/automatic properties
+6. Expression bodied member syntax (for properties (get and set), methods, constrctor)
+7. automatic property initializer
+8. string interpolation
+9. null propagator or Null-conditional operators ?. and ?[]
+10. Local functions
+11. required keyword (is used with auto-properties and data memebrs)
+12. Object Intializer and collection Initializer
+13. Tuple
+14. Record
+15. Extension Method 
+
 
 
 
