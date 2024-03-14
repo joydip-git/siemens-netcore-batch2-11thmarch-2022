@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\bin\Debug\net8.0\GenericCollections.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\bin\Debug\net8.0\GenericCollections.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\bin\Debug\net8.0\GenericCollections.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\bin\Debug\net8.0\GenericCollections.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\bin\Debug\net8.0\GenericCollections.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\refint\GenericCollections.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\GenericCollections.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-4\GenericCollections\obj\Debug\net8.0\ref\GenericCollections.dll

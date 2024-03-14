@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsApp", "CollectionsApp.csproj", "{B7218C4B-A346-4BC2-A59E-D01D121F09E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsApp", "CollectionsApp.csproj", "{B7218C4B-A346-4BC2-A59E-D01D121F09E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollections", "..\GenericCollections\GenericCollections.csproj", "{F7A98983-25DF-47AF-8F83-C5CE63425FE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCollections", "..\GenericCollections\GenericCollections.csproj", "{F7A98983-25DF-47AF-8F83-C5CE63425FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetApp", "..\SetApp\SetApp.csproj", "{6407FB70-D7B2-44AE-869E-01F0F747264B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7A98983-25DF-47AF-8F83-C5CE63425FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6407FB70-D7B2-44AE-869E-01F0F747264B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6407FB70-D7B2-44AE-869E-01F0F747264B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6407FB70-D7B2-44AE-869E-01F0F747264B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6407FB70-D7B2-44AE-869E-01F0F747264B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

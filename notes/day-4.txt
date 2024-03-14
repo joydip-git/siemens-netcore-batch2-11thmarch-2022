@@ -41,7 +41,15 @@ IEnumerable<T>, ICollection<T>, IList<T>, IComparer<T>, IEnumerator<T>
 
 generic collection classes:
 ------------------------------------
-List<T>, Stack<T>, Queue<T>, Dictionary<TKey,TValue>, SortedList<TKey,TValue>, KeyValuePair<TKey,TValue>
+List<T>, Stack<T>, Queue<T>, Dictionary<TKey,TValue>, SortedList<TKey,TValue>, KeyValuePair<TKey,TValue>, HashSet<T>
+
+Object
+	=> Type GetType()
+	=> virtual string ToString()
+	=> virtual bool Equals(object obj)
+	=> virtual int GetHashCode()
+
+nth hash code = currentdata and (n-1) th hashcode
 
 
 
