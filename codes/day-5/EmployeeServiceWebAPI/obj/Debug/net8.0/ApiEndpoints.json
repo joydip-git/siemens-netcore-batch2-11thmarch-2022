@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "EmployeeServiceWebAPI.Controllers.EmployeeController",
+    "Method": "FetchEmployees",
+    "RelativePath": "Employee/records",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

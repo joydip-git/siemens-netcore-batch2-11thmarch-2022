@@ -19,12 +19,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\uecczkmy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\uecczkmy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\uecczkmy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,8 +37,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/joydip_pc_sqlexpress/employeedb/sa/SqlTable/dbo.employeerecords.sql",
               "ToolTip": "dbo.employeerecords [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-15T11:16:32.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T11:16:32.757Z"
             },
             {
               "$type": "Document",
@@ -53,8 +46,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/joydip_pc_sqlexpress/employeedb/sa/SqlTable/dbo.__EFMigrationsHistory.sql",
               "ToolTip": "dbo.__EFMigrationsHistory [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-15T11:12:26.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T11:12:26.814Z"
             },
             {
               "$type": "Document",
@@ -63,8 +55,7 @@
               "DocumentMoniker": "C:\\Users\\joydip\\AppData\\Local\\Temp\\uecczkmy..sql",
               "ToolTip": "SQLQuery1.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-15T10:53:51.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T10:53:51.342Z"
             },
             {
               "$type": "Document",
@@ -74,7 +65,7 @@
               "RelativeDocumentMoniker": "..\\DataAccessUsingEFCore\\Program.cs",
               "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-5\\DataAccessUsingEFCore\\Program.cs",
               "RelativeToolTip": "..\\DataAccessUsingEFCore\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAACYAAAA2AAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T10:46:17.882Z",
               "EditorCaption": ""
@@ -87,7 +78,7 @@
               "RelativeDocumentMoniker": "..\\DataAccessUsingEFCore\\Repository\\EmployeeDbContext.cs",
               "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-5\\DataAccessUsingEFCore\\Repository\\EmployeeDbContext.cs",
               "RelativeToolTip": "..\\DataAccessUsingEFCore\\Repository\\EmployeeDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAKAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T10:37:13.024Z",
               "EditorCaption": ""
@@ -100,7 +91,7 @@
               "RelativeDocumentMoniker": "..\\DataAccessUsingEFCore\\Repository\\EmployeeInfo.cs",
               "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-5\\DataAccessUsingEFCore\\Repository\\EmployeeInfo.cs",
               "RelativeToolTip": "..\\DataAccessUsingEFCore\\Repository\\EmployeeInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T10:36:01.625Z",
               "EditorCaption": ""
