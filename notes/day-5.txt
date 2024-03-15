@@ -10,7 +10,18 @@ Reflection: runtime type discovery
 DI in .NET:
 NuGet package: Microsoft.Extensions.DependencyInjection
 
-ServiceCollection
-ServiceProvider: the one which provides the dependent party an instance of a service(s) from service collection
+ServiceCollection class IServiceCollection interface : a container to store the dependency objects, register providers etc.
+ServiceProvider class and IServiceProvider interface: the one which provides the dependent party an instance of a service(s) from service collection. the providers must be register with the service collection for servive(s) by calling BuilServiceProvider() method of IServiceCollection
 
 lifetime of instances in servicecollection=> singleton, scoped, transient
+
+
+delegate:
+	is used to store reference(s)  to one or more than one method
+	and invoke the method(s)
+
+built-in:
+	Action, Func, Predicate etc.
+	EventHandler
+
+uses: threading, event handling, LINQ etc.
