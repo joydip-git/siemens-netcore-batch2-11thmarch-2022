@@ -1,0 +1,15 @@
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\bin\Debug\net8.0\ImplementationInLINQ.exe
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\bin\Debug\net8.0\ImplementationInLINQ.deps.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\bin\Debug\net8.0\ImplementationInLINQ.runtimeconfig.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\bin\Debug\net8.0\ImplementationInLINQ.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\bin\Debug\net8.0\ImplementationInLINQ.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.AssemblyInfoInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.AssemblyInfo.cs
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.csproj.CoreCompileInputs.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.sourcelink.json
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\refint\ImplementationInLINQ.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.pdb
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ImplementationInLINQ.genruntimeconfig.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-5\ImplementationInLINQ\obj\Debug\net8.0\ref\ImplementationInLINQ.dll
