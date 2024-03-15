@@ -1,0 +1,16 @@
+Reflection: runtime type discovery
+	a technique to investigate about a type during runtime...
+	it is a mechanism to....
+		a. extract metadata about type(s)
+		b. creation of object using the metadata of type
+		c. extracting metadata of method(s) from a type
+		d. calling/invoking the method using the metadata of that method
+
+
+DI in .NET:
+NuGet package: Microsoft.Extensions.DependencyInjection
+
+ServiceCollection
+ServiceProvider: the one which provides the dependent party an instance of a service(s) from service collection
+
+lifetime of instances in servicecollection=> singleton, scoped, transient

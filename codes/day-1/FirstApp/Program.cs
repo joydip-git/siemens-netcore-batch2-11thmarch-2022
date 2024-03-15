@@ -29,7 +29,7 @@
 //        }
 //    }
 //}
-
+/*
 //using Microsoft.Extensions.DependencyInjection;
 using SampleLibraryApp;
 
@@ -44,4 +44,48 @@ void Show()
     Messenger messenger = new Messenger();
     string result = messenger.SendMessage("joydip");
     Console.WriteLine(result);
+}
+*/
+class A
+{
+    protected static int x;
+
+    public static int X { get => x; set => x = value; }
+}
+class B : A
+{
+    public void Show()
+    {
+        System.Console.WriteLine($"X: {x}");
+    }
+}
+public interface IOperations
+{
+
+}
+public static class OperationExtension
+{
+    public int Add(this IOperations operations, int x, int y)
+    {
+        return x + y;
+    }
+}
+class Program
+{
+    static void Main()
+    {
+        HashSet<Product> products = new HashSet<Product>();
+        Product first = new Product { Id = 1, Name = "Product1" };
+        Product second = new Product { Id = 2, Name = "Product2" };
+        Product third = first;
+        third.Name = "Product3";
+        products.Add(first);
+        products.Add(second);
+        products.Add(third);
+
+        foreach (var product in products)
+        {
+            System.Console.WriteLine(product.Name);
+        }
+    }
 }

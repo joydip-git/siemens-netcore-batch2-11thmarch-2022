@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qdgDAZ4qfxwal5ObM1j4qcca7QEAuk1luWtYR1w0sEUB1+6nywt0lezPextZyWRTI/cDTRXGmcd8ZqkICJgudg==",
+  "dgSpecHash": "XszSagD/iE1WaKtYg/m08//lbCgk1y8LxfF8VFmJ3sApyAgOnkjIl6m6PKxvVYlixqKXr/Zx4O5H6TFQa9Bxuw==",
   "success": true,
   "projectFilePath": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\DependencyInjection.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

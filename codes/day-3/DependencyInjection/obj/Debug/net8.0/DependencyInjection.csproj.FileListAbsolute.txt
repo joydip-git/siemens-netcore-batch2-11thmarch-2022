@@ -13,3 +13,7 @@ D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjectio
 D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\obj\Debug\net8.0\DependencyInjection.pdb
 D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\obj\Debug\net8.0\DependencyInjection.genruntimeconfig.cache
 D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\obj\Debug\net8.0\ref\DependencyInjection.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\obj\Debug\net8.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\training\siemens-netcore-batch2-11thmarch-2022\codes\day-3\DependencyInjection\obj\Debug\net8.0\Dependen.428E3D85.Up2Date

@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5346D336-0493-4692-8CFC-6345D5356793}|DependencyInjection.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\dependencyinjection\\bankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5346D336-0493-4692-8CFC-6345D5356793}|DependencyInjection.csproj|solutionrelative:bankingoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5346D336-0493-4692-8CFC-6345D5356793}|DependencyInjection.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\dependencyinjection\\ibankingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5346D336-0493-4692-8CFC-6345D5356793}|DependencyInjection.csproj|solutionrelative:ibankingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5346D336-0493-4692-8CFC-6345D5356793}|DependencyInjection.csproj|d:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\dependencyinjection\\bankingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5346D336-0493-4692-8CFC-6345D5356793}|DependencyInjection.csproj|solutionrelative:bankingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBankingService.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\IBankingService.cs",
+              "RelativeDocumentMoniker": "IBankingService.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\IBankingService.cs",
+              "RelativeToolTip": "IBankingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:59:42.845Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,9 +53,10 @@
               "RelativeDocumentMoniker": "BankingOperations.cs",
               "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\BankingOperations.cs",
               "RelativeToolTip": "BankingOperations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAhwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T06:31:29.292Z"
+              "WhenOpened": "2024-03-15T05:59:15.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,9 +66,23 @@
               "RelativeDocumentMoniker": "BankingService.cs",
               "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\BankingService.cs",
               "RelativeToolTip": "BankingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T06:30:19.041Z"
+              "WhenOpened": "2024-03-15T05:58:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankingFactory.cs",
+              "DocumentMoniker": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\BankingFactory.cs",
+              "RelativeDocumentMoniker": "BankingFactory.cs",
+              "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\BankingFactory.cs",
+              "RelativeToolTip": "BankingFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:35:28.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +92,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\training\\siemens-netcore-batch2-11thmarch-2022\\codes\\day-3\\DependencyInjection\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T06:29:44.517Z",
               "EditorCaption": ""

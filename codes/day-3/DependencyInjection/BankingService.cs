@@ -1,6 +1,6 @@
 ﻿namespace DependencyInjection
 {
-    internal class BankingService
+    public class BankingService : IBankingService
     {
         //has-a relationship
         private readonly IOperations operations;
